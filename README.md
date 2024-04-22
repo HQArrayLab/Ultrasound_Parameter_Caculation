@@ -6,4 +6,5 @@ The code is open-source.
 
 The code was test on Windows 11.
 
-![image](https://github.com/HQArrayLab/Ultrasound_Parameter_Caculation/assets/167310828/0d61a60d-4977-4a09-91b1-d5126734102c)
+
+![app](https://github.com/HQArrayLab/Ultrasound_Parameter_Caculation/assets/167310828/d764cd8a-77bc-4680-b98e-2626ef651775)
